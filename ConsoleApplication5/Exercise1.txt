@@ -1,0 +1,28 @@
+1. What is clean code? What is the role played by refactoring one’s code?
+
+A clean code is well structured code :
+- Doesn't contain duplication
+- Passes tests
+- Minimal number of classes
+- Good documentation
+
+Refactoring helped to have a clean code by realising a series of small changes.
+
+2. Do you think you can “over-refactor” and do too much? How?
+
+Yes I think, reducing too much the code could also affect negatively the code and make it dirty.
+For example by reducing too much the number of classes, we could have a garbage class which is a mix-up of every classes and this is unreadable.
+
+3. What is a code smell? Why should you bother?
+
+The smell of code are the bad habits of developers.
+
+4. Can you identify a few code smells in the original GuildedRose?
+
+The UpdateQuality() method is a perfect example of a code which stink, the method is too long with too many if statement. 
+In the class Item we have incomplete library class who didn't take care of "Conjured" item.
+
+5. What are some refactoring techniques you could have used in the GuildedRose?
+
+The main problem in the GuildedRose is the complexity of the main method and the very low scalability.
+To overcome these problems I would use a Construtor to be able to separate each item and deal with them more clearly.

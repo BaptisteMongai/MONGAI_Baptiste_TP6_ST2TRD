@@ -1,0 +1,6 @@
+C:\Users\BaptisteM\RiderProjects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\BaptisteM\RiderProjects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\BaptisteM\RiderProjects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojAssemblyReference.cache
+C:\Users\BaptisteM\RiderProjects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.CoreCompileInputs.cache
+C:\Users\BaptisteM\RiderProjects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\BaptisteM\RiderProjects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

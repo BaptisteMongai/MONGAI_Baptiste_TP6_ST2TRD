@@ -1,0 +1,29 @@
+1. In simple terms, and a few sentences at most, what’s a design pattern?
+
+A pattern is a general concept solution to commonly occurring problems.
+
+a. When should you use one?
+When we face a common software design problem.
+
+b. When shouldn’t you?
+Do not abuse the design pattern, do not above all force yourself to use these patterns if the situation does not lend itself to it.
+
+2. Write a small program that build a pizza with various toppings using the builder
+pattern. Why is this a good idea? Think about scalability for instance
+
+This is a good idea because with this design pattern we could create hundreds of pizza easily. 
+Here just with 3 ingredients we could have maximum 2^3-1 = 7 pizzas. 
+So with 10 ingredients we already could have more than one hundred pizzas.
+It's also very easy to add a new pizza.
+
+3. Find an original idea to implement a decorator pattern (not the one from the website).
+Can you think of any limitations? No need to code here.
+
+With a decorative pattern, you can for example choose the cooking of a food. 
+One limitation is that you cannot plan all possible ingredients in advance.
+
+4. Write a small program to implement the behavioral design pattern of your choice.
+Once again, do not use the example given by the website, but feel free to use them as
+guidance.
+
+Done
